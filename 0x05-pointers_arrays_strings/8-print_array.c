@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * print_array - prints n element of array 
+ * print_array - prints n element of array
  * @a: parameter
  * @n: second parameter
  */
